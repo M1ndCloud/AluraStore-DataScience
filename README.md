@@ -1,7 +1,7 @@
 # Análise de Vendas das Lojas – Projeto AluraStore 
 ### Alura - DataScience
 
-### 📃Propósito do projeto
+### 📃Propósito do Projeto
 
 O objetivo deste projeto é realizar a análise de dados das vendas de quatro lojas diferentes a partir de arquivos CSV, os quais foram disponibilizados pela Alura.
 
@@ -15,7 +15,7 @@ Nesse projeto busquei responder as seguintes questões:
 
 - Qual loja teve maior lucro.
 #
-### 🔨Estrutura do projeto e organização dos arquivos.
+### 🔨Estrutura do Projeto e Organização dos Arquivos.
 
 O projeto foi estruturado no Google Colab usando Jupyter Notebook.
 
@@ -33,8 +33,8 @@ Revela a distribuição do lucro entre as lojas. É útil para entender a partic
 ✅ Gráfico 3: Tendência de Lucro (Linha)
 
 Ajuda a visualizar variações e comparação direta entre as lojas.
-
-## 👉 Instruções para Executar o Projeto
+#
+# 👉 Instruções para Executar o Projeto
 
 ### Passo a Passo:
 1. Acesse o Google Colab:
