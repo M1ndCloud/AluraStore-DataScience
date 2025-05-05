@@ -17,8 +17,9 @@ Nesse projeto busquei responder as seguintes questões:
 #
 ### 🔨Estrutura do projeto e organização dos arquivos.
 
-O projeto foi estruturado no Google Colab usando Jupyter notebook.
- 
+O projeto foi estruturado no Google Colab usando Jupyter Notebook.
+
+#
 ### 📊 Exemplos de Gráficos e Insights Obtidos
 
 ✅ Gráfico 1: Lucro Total por Loja (Barras)
