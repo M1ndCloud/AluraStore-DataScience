@@ -15,6 +15,8 @@ O objetivo deste projeto foi analisar os dados de vendas de quatro lojas diferen
 
 ### 🔨Estrutura do projeto e organização dos arquivos.
 
+- O projeto foi estruturado no google colab.
+ 
 ### 📊 Exemplos de Gráficos e Insights Obtidos
 
 ✅ Gráfico 1: Lucro Total por Loja (Barras)
