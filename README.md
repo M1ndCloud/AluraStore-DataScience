@@ -34,7 +34,7 @@ Revela a distribuição do lucro entre as lojas. É útil para entender a partic
 
 Ajuda a visualizar variações e comparação direta entre as lojas.
 #
-# 👉 Instruções para Executar o Projeto
+### 👉 Instruções para Executar o Projeto
 
 ### Passo a Passo:
 1. Acesse o Google Colab:
