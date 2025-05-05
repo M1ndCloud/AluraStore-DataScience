@@ -14,7 +14,7 @@ Nesse projeto busquei responder as seguintes questões:
 - Como está a avaliação média dos clientes.
 
 - Qual loja teve maior lucro.
-
+#
 ### 🔨Estrutura do projeto e organização dos arquivos.
 
 - O projeto foi estruturado no google colab.
