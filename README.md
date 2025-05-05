@@ -45,7 +45,7 @@ Ajuda a visualizar variações e comparação direta entre as lojas.
 
    - Clique na aba "Upload" ou "Carregar".
 
-   - Envie o arquivo notebook_final.ipynb do seu computador (ou do repositório, se estiver no GitHub).
+   - Envie o arquivo ChallengeAluraStore1.ipynb do seu computador (ou do repositório, se estiver no GitHub).
 
 3. Executar as células:
 
