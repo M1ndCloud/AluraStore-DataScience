@@ -15,6 +15,7 @@ Qual loja teve maior lucro?
 Como os fretes impactam nos resultados?
 
 📊 Exemplos de Gráficos e Insights Obtidos
+
 ✅ Gráfico 1: Lucro Total por Loja (Barras)
 Mostra claramente que a Loja 3 teve o menor lucro entre todas, enquanto a Loja 4 teve o maior.
 
