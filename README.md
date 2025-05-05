@@ -5,13 +5,15 @@
 
 O objetivo deste projeto é realizar a análise de dados das vendas de quatro lojas diferentes a partir de arquivos CSV, os quais foram disponibilizados pela Alura.
 
-- Qual loja teve maior e menor faturamento?
+Nesse projeto busquei responder as seguientes questões:
 
-- Qual foi o produto mais vendido em cada loja?
+- Qual loja teve maior e menor faturamento.
 
-- Como está a avaliação média dos clientes?
+- Qual foi o produto mais vendido em cada loja.
 
-- Qual loja teve maior lucro?
+- Como está a avaliação média dos clientes.
+
+- Qual loja teve maior lucro.
 
 ### 🔨Estrutura do projeto e organização dos arquivos.
 
