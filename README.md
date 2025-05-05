@@ -17,7 +17,7 @@ Nesse projeto busquei responder as seguintes questões:
 #
 ### 🔨Estrutura do projeto e organização dos arquivos.
 
-O projeto foi estruturado no Google Colab usando Jupter notebook.
+O projeto foi estruturado no Google Colab usando Jupyter notebook.
  
 ### 📊 Exemplos de Gráficos e Insights Obtidos
 
